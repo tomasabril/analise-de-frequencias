@@ -19,7 +19,7 @@ Atividade: Considerando a tabela de frequências de caracteres em português inf
 | K | 0.02 | L | 2.78 | M | 4.74 | N | 5.05 | O | 10.73 |
 | P | 2.52 | Q | 1.20 | R | 6.53 | S | 7.81 | T | 4.34 |
 | U | 4.63 | V | 1.67 | W | 0.01 | X | 0.21 | Y | 0.01 |
-| Z | 0.47 | 								
+| Z | 0.47 | | | | | | | | |
 
 
 A mensagem a ser analisada é:
